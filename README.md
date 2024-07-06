@@ -4,11 +4,16 @@
 Inputs:
 
 a: First 64-bit input.
+
 b: Second 64-bit input.
+
 cin: Carry-in (single bit).
+
+
 Outputs:
 
 sum: 64-bit sum of a and b.
+
 cout: Carry-out (single bit).
 
 
